@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GabrielRDias
+- 👀 I’m interested in a new oportunity in WEB development area.
+- 🌱 I’m currently learning front and back end in the DNC Scholl.
+- 📫 How to reach me: gabrielrodrigo.contato@gmail.com
